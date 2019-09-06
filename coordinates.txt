@@ -1,5 +1,4 @@
 xratio= 5.2083336E-4, yratio= 0.7462963, len= 29, wid=43
-xratio= 5.2083336E-4, yratio= 0.7462963, len= 29, wid=43
 xratio= 0.06302083, yratio= 0.7972222, len= 29, wid=43
 xratio= 0.08645833, yratio= 0.7712963, len= 29, wid=43
 xratio= 0.122395836, yratio= 0.7712963, len= 29, wid=43
