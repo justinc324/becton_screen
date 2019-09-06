@@ -1,0 +1,20 @@
+xratio= 5.2083336E-4, yratio= 0.7462963, len= 29, wid=43
+xratio= 5.2083336E-4, yratio= 0.7462963, len= 29, wid=43
+xratio= 0.06302083, yratio= 0.7972222, len= 29, wid=43
+xratio= 0.08645833, yratio= 0.7712963, len= 29, wid=43
+xratio= 0.122395836, yratio= 0.7712963, len= 29, wid=43
+xratio= 0.17916666, yratio= 0.7972222, len= 29, wid=44
+xratio= 0.2765625, yratio= 0.7685185, len= 29, wid=44
+xratio= 0.29895833, yratio= 0.7425926, len= 29, wid=44
+xratio= 0.35364583, yratio= 0.7425926, len= 29, wid=44
+xratio= 0.3875, yratio= 0.7962963, len= 29, wid=44
+xratio= 0.41041666, yratio= 0.7962963, len= 29, wid=44
+xratio= 0.43385416, yratio= 0.7685185, len= 29, wid=44
+xratio= 0.48645833, yratio= 0.7425926, len= 29, wid=44
+xratio= 0.50885415, yratio= 0.7685185, len= 29, wid=44
+xratio= 0.5640625, yratio= 0.85925925, len= 34, wid=49
+xratio= 0.4609375, yratio= 0.8851852, len= 30, wid=45
+xratio= 0.66041666, yratio= 0.0, len= 635, wid=651
+xratio= 0.66041666, yratio= 0.5824074, len= 450, wid=651
+xratio= 0.66041666, yratio= -9.259259E-4, len= 71, wid=651
+
