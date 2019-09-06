@@ -1,5 +1,6 @@
 # becton_screen
 repository for hw1 of 334
+
 Group Members: Justin Cong, Jordan Smith, Itai Almar, Varsha Raghavan.
 
 We met on Friday, September 6th to complete our mapping assignment.
